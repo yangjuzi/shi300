@@ -41,6 +41,17 @@ export const footerConfig = {
                 { text: '归去来兮辞', href: '/works/10277' },
             ],
         },
+        {
+            title: '友情链接',
+            links: [
+                { text: '动物生成器', href: 'https://animalgenerator.co/' },
+                { text: '是否选择器', href: 'https://yesno.pro/' },
+                { text: 'TikTok表情符号', href: 'https://tiktok-emojis.com/' },
+                { text: '小报童导航', href: 'http://bestxiaobaotong.com/' },
+                { text: '文本翻转', href: 'https://upsidedowntext.vip/' },
+                { text: '文本翻转', href: 'https://upsidedowntext.vip/' },
+            ],
+        },
     ],
     secondaryLinks: [
         { text: '服务条款', href: '/terms-of-service' },
