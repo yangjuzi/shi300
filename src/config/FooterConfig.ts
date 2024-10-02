@@ -49,7 +49,7 @@ export const footerConfig = {
                 { text: 'TikTok表情符号', href: 'https://tiktok-emojis.com/' },
                 { text: '小报童导航', href: 'http://bestxiaobaotong.com/' },
                 { text: '文本翻转', href: 'https://upsidedowntext.vip/' },
-                { text: '文本翻转', href: 'https://upsidedowntext.vip/' },
+                
             ],
         },
     ],
