@@ -46,6 +46,7 @@ export const footerConfig = {
             links: [
                 { text: '动物生成器', href: 'https://animalgenerator.co/' },
                 { text: '是否选择器', href: 'https://yesno.pro/' },
+                { text: 'yes or no', href: 'https://yesnooracle.dev/' },
                 { text: 'TikTok表情符号', href: 'https://tiktok-emojis.com/' },
                 { text: '小报童导航', href: 'http://bestxiaobaotong.com/' },
                 { text: '文本翻转', href: 'https://upsidedowntext.vip/' },
